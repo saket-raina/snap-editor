@@ -46,4 +46,4 @@ Implements the application's functionality, including:
 The website is deployed online, and you can access it live at the following URLs:
 
 - [SnapGlow - GitHub Pages](https://saket-raina.github.io/snap-glow/)  
-- [SnapGlow - Netlify](https://snap-glow/netlify.app/)
+- [SnapGlow - Netlify](https://snap-glow.netlify.app/)
